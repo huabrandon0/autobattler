@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a96c809502766df4fad62f772fdfdd5f, type: 3}
+  m_Name: ChomperData
+  m_EditorClassIdentifier: 
+  unitName: Chomper
+  characterPrefab: {fileID: 943890517265764985, guid: e2e4861e472e66346a0d2033810c05ce,
+    type: 3}
+  baseHealth: 200
+  baseAttack: 50
+  baseAttackRange: 1
+  baseAttackRate: 0.5
