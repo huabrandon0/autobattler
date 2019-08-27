@@ -6,7 +6,7 @@ Simple Autobattler is a desktop game that implements the basic mechanics of "aut
 ### Screenshots + Explanation
 
 <img align="left" width="300" height="300" src="img/gameplay-1.png">
-The game starts with an empty board and full hands.
+The game starts with an empty board and full hands for both sides.
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <img align="left" width="300" height="300" src="img/gameplay-2.png">
