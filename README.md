@@ -7,19 +7,19 @@ Simple Autobattler is a desktop game that implements the basic mechanics of "aut
 
 <img align="left" width="300" height="300" src="img/gameplay-1.png">
 The game starts with an empty board and full hands.
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <img align="left" width="300" height="300" src="img/gameplay-2.png">
 The player places their units on their side of the board.
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <img align="left" width="300" height="300" src="img/gameplay-3.png">
 Afterwards, the enemy AI places their units and battle commences.
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 <img align="left" width="300" height="300" src="img/gameplay-4.png">
 Eventually, one side's units is victorious!
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
 ### Tools/Assets Used
 - [Unity 2019.2.0f1](https://unity.com/)
