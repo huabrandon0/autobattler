@@ -1,15 +1,13 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using Sirenix.OdinInspector;
 
 namespace TeamfightTactics
 {
-    public class AttackUnitManager : SerializedMonoBehaviour
+    public class AttackUnitManager : MonoBehaviour
     {
         public static AttackUnitManager Instance { get; private set; }
-
-        [SerializeField]
+        
         public List<AttackUnit> AttackUnits { get; private set; }
 
         void Awake()

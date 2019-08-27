@@ -1,12 +1,11 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using Sirenix.OdinInspector;
 using System.Linq;
 
 namespace TeamfightTactics
 {
-    public class PlayerController : SerializedMonoBehaviour
+    public class PlayerController : MonoBehaviour
     {
         public string _key;
         

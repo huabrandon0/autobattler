@@ -1,11 +1,10 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using Sirenix.OdinInspector;
 
 namespace TeamfightTactics
 {
-    public class Selectable : SerializedMonoBehaviour { }
+    public class Selectable : MonoBehaviour { }
 
     [RequireComponent(typeof(Rigidbody))]
     public class Pickupable : Selectable, IPickupable
