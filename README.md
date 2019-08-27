@@ -1,5 +1,5 @@
 # Simple Autobattler
-[![https://huabrandon0.itch.io/autobattler](img/itch-io-badge.png)](https://huabrandon0.itch.io/autobattler)
+[![https://huabrandon0.itch.io/simple-autobattler](img/itch-io-badge.png)](https://huabrandon0.itch.io/autobattler)
 
 Simple Autobattler is a desktop game that implements the basic mechanics of "autobattler" genre games. Autobattler is a genre of strategy videogames that have recently risen in popularity. The most widely played autobattler games today include Riot's [Teamfight Tactics](https://na.leagueoflegends.com/en/featured/events/teamfight-tactics) and Valve's [Dota Underlords](https://underlords.com/).
 
