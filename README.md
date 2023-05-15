@@ -5,21 +5,22 @@ Simple Autobattler is a desktop game that implements the basic mechanics of "aut
 Here is an [itch.io link to play it online or download it for PC](https://huabrandon0.itch.io/autobattler).
 
 ## Screenshots + Explanation
-| <p float="left" align="center"><img width="300" src="img/gameplay-1.png"></p> | 
-|:--:| 
-| The game starts with an empty board and full hands for both sides. |
+<div align="center">
+  <p float="left" align="center"><img width="300" src="img/gameplay-1.png"></p>
+  The game starts with an empty board and full hands for both sides.
+  <br /><br /><br />
 
-| <p float="left" align="center"><img width="300" src="img/gameplay-2.png"></p> | 
-|:--:| 
-| The player places their units on their side of the board. |
+  <p float="left" align="center"><img width="300" src="img/gameplay-2.png"></p>
+  The player places their units on their side of the board.
+  <br /><br /><br />
 
-| <p float="left" align="center"><img width="300" src="img/gameplay-3.png"></p> | 
-|:--:| 
-| Afterwards, the enemy AI places their units and battle commences. |
+  <p float="left" align="center"><img width="300" src="img/gameplay-3.png"></p>
+  Afterwards, the enemy AI places their units and battle commences.
+  <br /><br /><br />
 
-| <p float="left" align="center"><img width="300" src="img/gameplay-4.png"></p> | 
-|:--:| 
-| Eventually, one side's units is victorious! |
+  <p float="left" align="center"><img width="300" src="img/gameplay-4.png"></p>
+  Eventually, one side's units is victorious!
+</div>
 
 ## Tools/Assets Used
 - [Unity 2019.2.0f1](https://unity.com/)
